@@ -1,16 +1,47 @@
-## Hi there 👋
+# Abbos Oktambayev
 
-<!--
-**abbosoktambayev/abbosoktambayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS Developer building native apps for Apple platforms.  
+Based in Astana, Kazakhstan · Student at AITU · Muslim
 
-Here are some ideas to get you started:
+Building modern Islamic digital products with focus on design, privacy, and usability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm building
+
+| App | Description | Stack |
+|-----|-------------|-------|
+| **[Taqwah](https://github.com/abbosoktambayev/Taqwah)** | Islamic prayer companion — times, tracker, Athkar, Qibla, widgets | SwiftUI · WidgetKit · CoreLocation |
+| **[Hafiz](https://github.com/abbosoktambayev/Hafiz)** | Quran memorization system based on sabaq/sabqi/manzil methodology | SwiftUI · SwiftData |
+
+Both apps are ad-free, offline-first, and built for Central Asia.
+
+---
+
+## Stack
+
+```swift
+let stack: [String] = [
+    "Swift", "SwiftUI", "SwiftData",
+    "WidgetKit", "StoreKit 2", "async/await",
+    "CoreLocation", "iCloud"
+]
+```
+
+Additional experience: Python · Django · HTML/CSS
+
+---
+
+## Currently
+
+- 🎓 2nd year Cybersecurity student @ AITU
+- 📱 iOS developer on AITUConnect team
+- 🕌 Preparing Taqwah & Hafiz for App Store
+- 📖 Balancing software engineering with Islamic studies
+
+---
+
+## Reach me
+
+[![Telegram](https://img.shields.io/badge/Telegram-@abbosoktambayev-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abbosoktambayev)
+[![Instagram](https://img.shields.io/badge/Instagram-abbos.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbos.dev)
