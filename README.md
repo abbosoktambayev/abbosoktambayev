@@ -11,8 +11,8 @@ Building modern Islamic digital products with focus on design, privacy, and usab
 
 | App | Description | Stack |
 |-----|-------------|-------|
-| **[Taqwah](https://github.com/abbosoktambayev/Taqwah)** | Islamic prayer companion — times, tracker, Athkar, Qibla, widgets | SwiftUI · WidgetKit · CoreLocation |
-| **[Hafiz](https://github.com/abbosoktambayev/Hafiz)** | Quran memorization system based on sabaq/sabqi/manzil methodology | SwiftUI · SwiftData |
+| **[Taqwah](https://github.com/abbosoktambayev/Taqwah)** | Islamic prayer companion — times, tracker, Athkar, Qibla, widgets | SwiftUI · WidgetKit · CoreLocation · StoreKit 2 |
+| **[Hafiz](https://github.com/abbosoktambayev/Hafiz)** | Quran memorization system based on sabaq/sabqi/manzil methodology | SwiftUI · SwiftData · AVFoundation · WidgetKit |
 
 Both apps are ad-free, offline-first, and built for Central Asia.
 
@@ -23,8 +23,8 @@ Both apps are ad-free, offline-first, and built for Central Asia.
 ```swift
 let stack: [String] = [
     "Swift", "SwiftUI", "SwiftData",
-    "WidgetKit", "StoreKit 2", "async/await",
-    "CoreLocation", "iCloud"
+    "WidgetKit", "StoreKit 2", "AVFoundation",
+    "async/await", "CoreLocation", "iCloud"
 ]
 ```
 
