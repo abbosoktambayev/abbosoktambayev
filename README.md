@@ -35,7 +35,7 @@ Additional experience: Python · Django · HTML/CSS
 
 ## Currently
 
-- 🎓 2nd year Cybersecurity student @ AITU
+- 🎓 2nd year Cybersecurity student of Astana IT University
 - 📱 iOS developer on AITUConnect team
 - 🕌 Preparing Taqwah & Hafiz for App Store
 - 📖 Balancing software engineering with Islamic studies
@@ -45,4 +45,4 @@ Additional experience: Python · Django · HTML/CSS
 ## Reach me
 
 [![Telegram](https://img.shields.io/badge/Telegram-@abbosoktambayev-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/abbosoktambayev)
-[![Instagram](https://img.shields.io/badge/Instagram-abbos.dev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbos.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-abbos.oktambayev-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abbos.oktambayev)
