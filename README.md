@@ -2,7 +2,6 @@
 
 iOS Developer building native apps for Apple platforms.  
 Based in Astana, Kazakhstan · Student at AITU · Muslim
-
 Building modern Islamic digital products with focus on design, privacy, and usability.
 
 ---
